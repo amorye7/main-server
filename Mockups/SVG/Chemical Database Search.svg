@@ -31,7 +31,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="759.4627"
-     inkscape:cy="309.8315"
+     inkscape:cy="481.26007"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -105,7 +105,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot2204"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:'Javanese Text';font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Javanese Text';font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion2206"><rect
            id="rect2208"
            width="8445.7139"
@@ -113,7 +113,7 @@
            x="-3234.2856"
            y="-553.39594" /></flowRegion><flowPara
          id="flowPara2210" /></flowRoot>    <rect
-       style="fill:none;fill-opacity:0;stroke:#ffcc00;stroke-width:2.932;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:0;stroke:#ffcc00;stroke-width:1.43700004;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect2212"
        width="307.91138"
        height="33.498474"
@@ -121,7 +121,7 @@
        y="128.4731"
        ry="5.8812284" />
     <rect
-       style="fill:none;fill-opacity:0;stroke:#ffcc00;stroke-width:2.93394923;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:0;stroke:#ffcc00;stroke-width:1.43700004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect2212-8"
        width="308.46603"
        height="33.490719"
@@ -129,7 +129,7 @@
        y="171.28467"
        ry="6.7198477" />
     <rect
-       style="fill:none;fill-opacity:0;stroke:#ffcc00;stroke-width:2.93300104;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:0;stroke:#ffcc00;stroke-width:1.43700004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect2212-3"
        width="308.26712"
        height="33.490677"
@@ -178,7 +178,7 @@
          y="231.0206"
          style="stroke-width:0.27912441">Chemical Name 3</tspan></text>
     <rect
-       style="fill:#33333f;fill-opacity:0;stroke:#57150b;stroke-width:1.46;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:#33333f;fill-opacity:0;stroke:#57150b;stroke-width:1.46000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect830"
        width="309.97858"
        height="25.113588"
@@ -445,7 +445,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot1167"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:'Javanese Text';font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'Javanese Text';font-stretch:normal;font-variant:normal"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion1169"><rect
            id="rect1171"
            width="86.873116"
@@ -465,15 +465,15 @@
          style="stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111111px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="22.985178"
        y="160.69249"
        id="text1183"><tspan
          sodipodi:role="line"
          id="tspan1181"
          x="22.985178"
-         y="169.65634"
-         style="stroke-width:0.26458332;font-size:7.76111111px;" /></text>
+         y="167.26598"
+         style="font-size:7.76111126px;stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -509,15 +509,15 @@
          id="tspan1192-7" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111111px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="21.381561"
        y="167.64149"
        id="text1224"><tspan
          sodipodi:role="line"
          id="tspan1222"
          x="21.381561"
-         y="176.60535"
-         style="stroke-width:0.26458332;font-size:7.76111111px;" /></text>
+         y="174.21498"
+         style="font-size:7.76111126px;stroke-width:0.26458332" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -761,12 +761,30 @@
        y="227.5775"
        ry="3.7894225" />
     <rect
-       style="fill:none;fill-opacity:0;stroke:#ffcc00;stroke-width:2.93300104;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:0;stroke:#ffcc00;stroke-width:1.43700004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect2212-3-7"
        width="308.26712"
        height="33.490677"
        x="107.61255"
        y="256.63193"
        ry="7.1398292" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29856396px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#57150b;fill-opacity:1;stroke:none;stroke-width:0.30746409"
+       x="431.90762"
+       y="109.79428"
+       id="text2128"><tspan
+         sodipodi:role="line"
+         id="tspan2126"
+         x="431.90762"
+         y="109.79428"
+         style="fill:#57150b;fill-opacity:1;stroke-width:0.30746409">?</tspan></text>
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#57150b;stroke-width:0.58291817;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path2132"
+       cx="434.67261"
+       cy="105.744"
+       rx="5.9437532"
+       ry="5.9367723" />
   </g>
 </svg>

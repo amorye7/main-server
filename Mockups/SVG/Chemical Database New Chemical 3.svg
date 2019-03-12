@@ -30,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="476.464"
-     inkscape:cy="503.0032"
+     inkscape:cx="1003.7636"
+     inkscape:cy="664.62761"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,7 +67,7 @@
        y="11.232685"
        ry="0" />
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:4.5945673;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:1.43700004;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect313-3-6"
        width="485.51682"
        height="162.7148"
@@ -178,21 +178,21 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="43.832199"
-       y="132.89647"
+       x="42.763123"
+       y="134.50009"
        id="text2983"><tspan
          sodipodi:role="line"
          id="tspan2981"
-         x="43.832199"
-         y="132.89647"
+         x="42.763123"
+         y="134.50009"
          style="stroke-width:0.26458332">Does this chemical contain petroleum?</tspan></text>
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:1.45000005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect2985"
        width="14.967093"
        height="12.828938"
-       x="225.57547"
-       y="123.27475"
+       x="223.97185"
+       y="125.94745"
        ry="0" />
     <text
        xml:space="preserve"
@@ -370,42 +370,42 @@
          x="9.441823"
          y="260.01086"
          style="font-size:7.89400053px;stroke-width:0.09250782">Powered by A-Team</tspan></text>
-    <path
-       sodipodi:type="star"
-       style="fill:#ffcf44;fill-opacity:1;stroke:#57150b;stroke-width:6.85439157;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="path925"
-       sodipodi:sides="8"
-       sodipodi:cx="1524"
-       sodipodi:cy="55.095215"
-       sodipodi:r1="18.697617"
-       sodipodi:r2="133.5544"
-       sodipodi:arg1="0.35961839"
-       sodipodi:arg2="1.0637063"
-       inkscape:flatsided="false"
-       inkscape:rounded="-0.54"
-       inkscape:randomized="1.7416624e-15"
-       d="m 1541.5016,61.675225 c 40.2655,-50.713021 3.1278,157.463815 47.3572,110.168085 42.39,-45.32887 -118.7923,-92.639593 -57.1361,-99.719859 64.3316,-7.387485 -109.132,113.555439 -44.414,111.387209 62.0266,-2.07807 -18.4928,-149.504934 30.1113,-110.913893 50.713,40.265543 -157.4638,3.127828 -110.1681,47.357203 45.3289,42.39004 92.6396,-118.7922988 99.7199,-57.136059 7.3874,64.331559 -113.5555,-109.132026 -111.3872,-44.414 2.078,62.026638 149.5049,-18.49275577 110.9138,30.111294 -40.2655,50.713021 -3.1278,-157.463825 -47.3572,-110.168088 -42.39,45.328872 118.7923,92.639596 57.1361,99.719862 -64.3316,7.387484 109.132,-113.555443 44.414,-111.387205 -62.0266,2.07807 18.4928,149.50493 -30.1113,110.913889 -50.713,-40.2655405 157.4638,-3.127828 110.1681,-47.3572075 -45.3289,-42.3900385 -92.6396,118.7923045 -99.7199,57.1360625 -7.3874,-64.331557 113.5555,109.132022 111.3872,44.414 -2.078,-62.026637 -149.5049,18.492752 -110.9138,-30.111293 z"
-       inkscape:transform-center-x="0.27771863"
-       inkscape:transform-center-y="-1.1985157"
-       transform="matrix(0.11782389,0,0,0.10427941,309.36812,274.1494)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="255.48143"
-       y="132.56212"
+       x="252.80873"
+       y="134.70027"
        id="text2983-2"><tspan
          sodipodi:role="line"
          id="tspan2981-8"
-         x="255.48143"
-         y="132.56212"
+         x="252.80873"
+         y="134.70027"
          style="stroke-width:0.26458332">If so, what is the weight percent?</tspan></text>
     <rect
        style="fill:#57150b;fill-opacity:1;stroke:none;stroke-width:0.41833803;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect830-7-0-54-5-2-4-1-9-11"
        width="70.872307"
        height="0.94999999"
-       x="409.83487"
-       y="132.95599"
+       x="404.48947"
+       y="137.2323"
        ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29856396px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#57150b;fill-opacity:1;stroke:none;stroke-width:0.30746412"
+       x="472.44025"
+       y="119.8415"
+       id="text2128-0"><tspan
+         sodipodi:role="line"
+         id="tspan2126-9"
+         x="472.44025"
+         y="119.8415"
+         style="fill:#57150b;fill-opacity:1;stroke-width:0.30746412">?</tspan></text>
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#57150b;stroke-width:0.58291817;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path2132-9"
+       cx="475.20523"
+       cy="115.79121"
+       rx="5.9437532"
+       ry="5.9367723" />
   </g>
 </svg>

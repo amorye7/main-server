@@ -16,7 +16,10 @@
    version="1.1"
    id="svg348"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Chemical Database New Chemical.svg">
+   sodipodi:docname="Chemical Database New Chemical.svg"
+   inkscape:export-filename="C:\Users\Excalibur\Documents\main-server\Mockups\PNG\Chemical Database New Chemical.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs342" />
   <sodipodi:namedview
@@ -26,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="797.71407"
-     inkscape:cy="518.9909"
+     inkscape:zoom="0.7"
+     inkscape:cx="932.96583"
+     inkscape:cy="588.91746"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -429,13 +432,13 @@
          style="font-size:8.23316479px;stroke-width:0.27090633"
          id="tspan900-8-4-9">Zip Code</tspan></text>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:2.95000005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:1.65504193;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect313"
-       width="487.16138"
-       height="66.851845"
-       x="7.5844941"
-       y="138.65292"
-       ry="12.473214" />
+       width="490.18015"
+       height="66.846802"
+       x="7.5870152"
+       y="138.65544"
+       ry="12.472274" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot858-4-1"
@@ -465,12 +468,48 @@
            style="font-size:192px" /></flowRegion><flowPara
          id="flowPara864-0-1-1"
          style="font-size:47.6095314px;fill:#000000;fill-opacity:1">Manufacturer</flowPara></flowRoot>    <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:2.95000005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:1.65;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect313-2"
        width="487.16138"
        height="66.851845"
        x="9.6633654"
        y="214.81512"
        ry="12.473214" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29856396px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#57150b;fill-opacity:1;stroke:none;stroke-width:0.30746409"
+       x="483.39041"
+       y="154.36516"
+       id="text2128"><tspan
+         sodipodi:role="line"
+         id="tspan2126"
+         x="483.39041"
+         y="154.36516"
+         style="fill:#57150b;fill-opacity:1;stroke-width:0.30746409">?</tspan></text>
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#57150b;stroke-width:0.58291817;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path2132"
+       cx="486.1554"
+       cy="150.31487"
+       rx="5.9437532"
+       ry="5.9367723" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29856396px;line-height:1.25;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text';letter-spacing:0px;word-spacing:0px;fill:#57150b;fill-opacity:1;stroke:none;stroke-width:0.30746409"
+       x="483.03931"
+       y="230.7718"
+       id="text2128-0"><tspan
+         sodipodi:role="line"
+         id="tspan2126-0"
+         x="483.03931"
+         y="230.7718"
+         style="fill:#57150b;fill-opacity:1;stroke-width:0.30746409">?</tspan></text>
+    <ellipse
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#57150b;stroke-width:0.58291817;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path2132-4"
+       cx="485.80429"
+       cy="226.72153"
+       rx="5.9437532"
+       ry="5.9367723" />
   </g>
 </svg>

@@ -40,8 +40,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497476"
-     inkscape:cx="1574.1273"
-     inkscape:cy="693.1136"
+     inkscape:cx="690.14387"
+     inkscape:cy="710.27264"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -62,7 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -166,24 +166,6 @@
          x="120.00939"
          y="208.61551"
          style="font-size:7.40171051px;fill:#0000fb;fill-opacity:1;stroke-width:0.07710116">Advanced Search</tspan></text>
-    <path
-       sodipodi:type="star"
-       style="fill:#ffcf44;fill-opacity:1;stroke:#57150b;stroke-width:6.85439157;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
-       id="path925"
-       sodipodi:sides="8"
-       sodipodi:cx="1524"
-       sodipodi:cy="55.095215"
-       sodipodi:r1="18.697617"
-       sodipodi:r2="133.5544"
-       sodipodi:arg1="0.35961839"
-       sodipodi:arg2="1.0637063"
-       inkscape:flatsided="false"
-       inkscape:rounded="-0.54"
-       inkscape:randomized="1.7416624e-15"
-       d="m 1541.5016,61.675225 c 40.2655,-50.713021 3.1278,157.463815 47.3572,110.168085 42.39,-45.32887 -118.7923,-92.639593 -57.1361,-99.719859 64.3316,-7.387485 -109.132,113.555439 -44.414,111.387209 62.0266,-2.07807 -18.4928,-149.504934 30.1113,-110.913893 50.713,40.265543 -157.4638,3.127828 -110.1681,47.357203 45.3289,42.39004 92.6396,-118.7922988 99.7199,-57.136059 7.3874,64.331559 -113.5555,-109.132026 -111.3872,-44.414 2.078,62.026638 149.5049,-18.49275577 110.9138,30.111294 -40.2655,50.713021 -3.1278,-157.463825 -47.3572,-110.168088 -42.39,45.328872 118.7923,92.639596 57.1361,99.719862 -64.3316,7.387484 109.132,-113.555443 44.414,-111.387205 -62.0266,2.07807 18.4928,149.50493 -30.1113,110.913889 -50.713,-40.2655405 157.4638,-3.127828 110.1681,-47.3572075 -45.3289,-42.3900385 -92.6396,118.7923045 -99.7199,57.1360625 -7.3874,-64.331557 113.5555,109.132022 111.3872,44.414 -2.078,-62.026637 -149.5049,18.492752 -110.9138,-30.111293 z"
-       inkscape:transform-center-x="0.27771863"
-       inkscape:transform-center-y="-1.1985157"
-       transform="matrix(0.11782389,0,0,0.10427941,310.01903,273.23303)" />
     <image
        y="13.818596"
        x="-2.1453388"
